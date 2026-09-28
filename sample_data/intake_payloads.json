@@ -1,0 +1,7 @@
+[
+  { "source": "Monitoring", "source_id": "ALRT-1001", "title": "  Disk usage 95% on db01  ",
+    "severity": "Major", "urgency": "high", "service": "Payments DB", "caller": { "email": "NOC@Example.com" } },
+  { "source": "monitoring", "source_id": "ALRT-1001", "title": "Disk usage 97% on db01", "severity": "minor" },
+  { "source": "monitoring", "title": "missing id" },
+  { "source": "monitoring", "source_id": "ALRT-1002", "title": "Unknown sev", "severity": "sev0" }
+]
